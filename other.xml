@@ -63,4 +63,10 @@
       <option name="ENABLED" value="true" />
     </filter>
   </component>
+  <component name="ImportFilteringUsageViewSetting">
+    <option name="SHOW_IMPORTS" value="false" />
+  </component>
+  <component name="RefactoringSettings">
+    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_CLASS" value="false" />
+  </component>
 </application>
